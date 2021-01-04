@@ -7,8 +7,8 @@
 </h1>
 
 The link to the webpage is:
-<a href="https://suziestephen.github.io/dayplanner.github.io/"> Day Planner </a>
-
+<a href="https://suziestephen.github.io/workdayplanner.github.io/"> Day Planner </a>
+![](workdayplanner.gif)
 
 <b>Functionality:</b>
 Below is a video of how the final version works. You can access it at the link below. 
